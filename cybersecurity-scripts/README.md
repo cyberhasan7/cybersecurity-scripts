@@ -40,3 +40,21 @@ Checks if a password is strong using these rules:
 - At least one special character
 
 📄 File: `password_checker.py`
+
+
+## 🧮 File Integrity Checker (Tool #3)
+
+This tool checks whether a file has been changed by comparing its current SHA256 hash with the original one.
+
+### 🔐 Features:
+- SHA256 hash-based integrity check
+- Lightweight and fast
+- Helps detect file tampering or corruption
+
+### 📄 File:
+`file_integrity_checker.py`
+
+### ⚙️ How to Use:
+1. Run the script:
+   ```bash
+   python file_integrity_checker.py

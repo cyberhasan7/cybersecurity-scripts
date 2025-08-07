@@ -58,3 +58,23 @@ This tool checks whether a file has been changed by comparing its current SHA256
 1. Run the script:
    ```bash
    python file_integrity_checker.py
+
+
+## 📧 Tool 4: Email Spoof Simulation (Educational Purpose Only)
+
+This tool simulates email spoofing for cybersecurity awareness. It lets users craft a fake email header (From, To, Subject, Body) and saves it as an `.eml` file.
+
+> ⚠️ This tool does NOT send real spoofed emails. It's for learning how attackers manipulate email headers.
+
+### ✅ Features:
+- Set custom "From" and "To" addresses
+- Customize subject and body
+- Outputs `.eml` file to inspect headers
+
+### 🔍 Sample Usage:
+```bash
+$ python email_spoof_simulator.py
+Enter fake sender email: attacker@fake.com
+Enter recipient email: victim@example.com
+Enter subject: Urgent!
+Enter message body: Please reset your password now!

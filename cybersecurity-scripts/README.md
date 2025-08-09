@@ -78,3 +78,24 @@ Enter fake sender email: attacker@fake.com
 Enter recipient email: victim@example.com
 Enter subject: Urgent!
 Enter message body: Please reset your password now!
+
+
+## 🔍 Tool 5: Phishing URL Checker
+
+A simple Python script to analyze URLs for common phishing signs, helping users spot suspicious links before clicking.
+
+### Features:
+- Checks if URL uses HTTPS or not
+- Detects if domain is an IP address
+- Looks for '@' symbol which can hide phishing tricks
+- Warns if URL is too long or ends with suspicious TLDs
+
+### Usage:
+```bash
+$ python phishing_url_checker.py
+Enter the URL to check: http://192.168.1.1/login
+```
+
+The script prints warnings and a final verdict about the URL’s safety.
+
+> Note: This is a heuristic tool for awareness and is not 100% accurate. Always use multiple tools and stay cautious!

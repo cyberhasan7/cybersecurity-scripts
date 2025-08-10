@@ -99,3 +99,18 @@ Enter the URL to check: http://192.168.1.1/login
 The script prints warnings and a final verdict about the URL’s safety.
 
 > Note: This is a heuristic tool for awareness and is not 100% accurate. Always use multiple tools and stay cautious!
+
+## 🛡️ Tool 6: Keylogger Detector
+
+A Python tool that scans running processes and flags potential keyloggers based on suspicious keywords.
+
+> ⚠️ This is a basic detection method — real antivirus tools use advanced heuristics.
+
+### ✅ Features:
+- Works cross-platform (Windows, Linux, macOS)
+- Detects suspicious processes by name
+- Lightweight and fast
+
+### 🔍 Usage:
+```bash
+python keylogger_detector.py

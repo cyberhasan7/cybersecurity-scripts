@@ -111,6 +111,28 @@ A Python tool that scans running processes and flags potential keyloggers based 
 - Detects suspicious processes by name
 - Lightweight and fast
 
+
+
+## 🛡️ Tool 7: Ransomware File Monitor
+
+A Python tool that monitors a folder in real-time and alerts users if suspicious file changes are detected. Useful for early detection of ransomware activity.
+
+> ⚠️ Basic monitoring only — not a replacement for antivirus software.
+
+### ✅ Features:
+- Monitors file creation, modification, and renaming
+- Detects suspicious extensions like `.encrypted`, `.locked`, `.crypt`, `.enc`
+- Works cross-platform (Windows, Linux, macOS)
+- Lightweight and easy to run
+
 ### 🔍 Usage:
 ```bash
-python keylogger_detector.py
+python ransomware_monitor.py
+```
+
+### 📌 Example Output:
+```
+🔍 Monitoring folder for suspicious activity: /home/user
+⚠️ Suspicious file activity detected: /home/user/Documents/important_file.encrypted
+```
+

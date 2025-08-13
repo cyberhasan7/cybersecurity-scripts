@@ -134,5 +134,5 @@ python ransomware_monitor.py
 ```
 🔍 Monitoring folder for suspicious activity: /home/user
 ⚠️ Suspicious file activity detected: /home/user/Documents/important_file.encrypted
-`
+````````````
 

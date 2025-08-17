@@ -151,4 +151,3 @@ A Python tool to list saved Wi-Fi networks and their passwords on your Windows P
 ### 🔍 Usage:
 ```bash
 python wifi_password_extractor.py
-`

@@ -136,3 +136,19 @@ python ransomware_monitor.py
 ⚠️ Suspicious file activity detected: /home/user/Documents/important_file.encrypted
 ```
 
+
+## 📡 Tool 8: Wi-Fi Password Extractor (Local PC)
+
+A Python tool to list saved Wi-Fi networks and their passwords on your Windows PC.
+
+> ⚠️ Use responsibly. Only extract passwords from networks you own or have permission to access.
+
+### ✅ Features:
+- Extracts Wi-Fi SSIDs and saved passwords
+- Quick and lightweight
+- Educational/security awareness tool
+
+### 🔍 Usage:
+```bash
+python wifi_password_extractor.py
+`````````

@@ -168,4 +168,4 @@ Scans nearby Wi-Fi networks and displays useful info like SSID, signal strength,
 ### Usage
 ```bash
 python wifi_scanner.py
-````
+```

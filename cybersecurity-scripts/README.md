@@ -151,3 +151,21 @@ A Python tool to list saved Wi-Fi networks and their passwords on your Windows P
 ### 🔍 Usage:
 ```bash
 python wifi_password_extractor.py
+
+
+## 📡 Tool 9: Passive Wi-Fi Scanner
+
+Scans nearby Wi-Fi networks and displays useful info like SSID, signal strength, channel, and security.
+
+### ⚠️ Notes
+- Works on **Windows, Linux, macOS**
+- Uses built-in system commands:
+  - `netsh wlan show networks` (Windows)
+  - `nmcli dev wifi list` (Linux)
+  - `airport -s` (macOS)
+- Requires Wi-Fi interface enabled
+
+### Usage
+```bash
+python wifi_scanner.py
+`````````

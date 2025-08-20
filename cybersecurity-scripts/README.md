@@ -168,3 +168,20 @@ Scans nearby Wi-Fi networks and displays useful info like SSID, signal strength,
 ### Usage
 ```bash
 python wifi_scanner.py
+
+
+🧹 Tool #10: Malware Hash Checker
+
+This tool generates the SHA256 hash of any file. Security researchers use this hash to check files against malware databases like VirusTotal.
+
+🚀 Usage
+python malware_hash_checker.py suspicious.exe
+
+
+✅ Example Output:
+
+🧹 Malware Hash Checker
+📂 File: suspicious.exe
+🔑 SHA256: 3f786850e387550fdab836ed7e6dc881de23001b
+👉 You can paste this hash in VirusTotal for malware analysis.
+```````````

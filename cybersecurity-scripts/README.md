@@ -184,3 +184,11 @@ python malware_hash_checker.py suspicious.exe
 📂 File: suspicious.exe
 🔑 SHA256: 3f786850e387550fdab836ed7e6dc881de23001b
 👉 You can paste this hash in VirusTotal for malware analysis.
+
+
+### 🔥 Tool #11 – Fake IP Generator & Logger
+
+* Generates random **IPv4** or **IPv6** addresses
+* Saves generated IPs into `fake_ips.txt`
+* Useful for testing, anonymization, and load testing
+``````````

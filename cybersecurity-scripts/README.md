@@ -192,3 +192,12 @@ python malware_hash_checker.py suspicious.exe
 * Saves generated IPs into `fake_ips.txt`
 * Useful for testing, anonymization, and load testing
 
+### 12. 🔎 DNS Lookup Tool
+**File:** `dns_lookup.py`  
+This tool performs DNS lookups for a given domain.  
+It resolves the domain into an IP address and retrieves DNS records like **A, MX, NS, TXT**.  
+
+#### Usage:
+```bash
+python dns_lookup.py
+```````````````

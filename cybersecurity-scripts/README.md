@@ -200,4 +200,3 @@ It resolves the domain into an IP address and retrieves DNS records like **A, MX
 #### Usage:
 ```bash
 python dns_lookup.py
-`

@@ -200,3 +200,13 @@ It resolves the domain into an IP address and retrieves DNS records like **A, MX
 #### Usage:
 ```bash
 python dns_lookup.py
+
+
+### 13. 💻 System Info Collector
+**File:** `system_info_collector.py`  
+Collects detailed information about the system, including **OS, CPU, RAM, and Disk usage**.  
+
+#### Usage:
+```bash
+python system_info_collector.py
+``````````````

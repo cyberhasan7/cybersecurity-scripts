@@ -218,3 +218,4 @@ Checks whether the **firewall is enabled or disabled** on Windows, Linux, and ma
 ```bash
 python firewall_status_checker.py
 ```
+````````

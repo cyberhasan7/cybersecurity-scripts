@@ -210,3 +210,12 @@ Collects detailed information about the system, including **OS, CPU, RAM, and Di
 ```bash
 python system_info_collector.py
 
+### 15. 🧯 Firewall Status Checker
+**File:** `firewall_status_checker.py`  
+Checks whether the **firewall is enabled or disabled** on Windows, Linux, and macOS.  
+
+#### Usage:
+```bash
+python firewall_status_checker.py
+```
+`````````````````

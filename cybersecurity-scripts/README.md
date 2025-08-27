@@ -230,4 +230,3 @@ Captures raw **network packets** and extracts:
 ```bash
 sudo python3 network_sniffer.py
 ``
-`

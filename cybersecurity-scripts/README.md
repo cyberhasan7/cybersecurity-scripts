@@ -218,3 +218,16 @@ Checks whether the **firewall is enabled or disabled** on Windows, Linux, and ma
 ```bash
 python firewall_status_checker.py
 ```
+
+### 16. 🌐 Network Traffic Sniffer (Basic)
+**File:** `network_sniffer.py`  
+Captures raw **network packets** and extracts:  
+- Source IP  
+- Destination IP  
+- Protocol number  
+
+#### Usage:
+```bash
+sudo python3 network_sniffer.py
+```
+``````````````````

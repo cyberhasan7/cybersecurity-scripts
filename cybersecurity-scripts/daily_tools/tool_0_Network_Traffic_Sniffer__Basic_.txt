@@ -1,9 +1,0 @@
-### 1. 🌐 Network Traffic Sniffer (Basic)
-**File:** `network_sniffer.py`
-
-Captures raw network packets and extracts source IP, destination IP, protocol number.
-
-#### Usage:
-```bash
-python network_sniffer.py
-```

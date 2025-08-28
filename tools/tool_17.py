@@ -72,4 +72,4 @@ if __name__ == "__main__":
 ```
 
 This Python script provides a simple tool for calculating and verifying file hashes using specified algorithms (MD5, SHA-1, SHA-256, SHA-512). It includes error handling, comments for clarity, and an example usage block to demonstrate functionality.
-# Commit version 27
+# Commit version 28

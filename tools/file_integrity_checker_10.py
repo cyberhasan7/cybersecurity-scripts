@@ -1,5 +1,5 @@
 """
-Tool: file_integrity_checker_10 | Commit #4
+Tool: file_integrity_checker_10 | Commit #5
 Safe cybersecurity tool example: file_integrity_checker
 """
 
@@ -16,4 +16,4 @@ def file_integrity_checker(file_path="test.txt"):
 if __name__ == "__main__":
     print("file_integrity_checker_10 output:", file_integrity_checker())
 
-# Unique comment for commit #4
+# Unique comment for commit #5

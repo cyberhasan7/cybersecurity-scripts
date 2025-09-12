@@ -1,5 +1,5 @@
 """
-Tool: arp_spoof_detector_14 | Commit #5
+Tool: arp_spoof_detector_14 | Commit #6
 Safe cybersecurity tool example: arp_spoof_detector
 """
 
@@ -16,4 +16,4 @@ def arp_spoof_detector(file_path="test.txt"):
 if __name__ == "__main__":
     print("arp_spoof_detector_14 output:", arp_spoof_detector())
 
-# Unique comment for commit #5
+# Unique comment for commit #6

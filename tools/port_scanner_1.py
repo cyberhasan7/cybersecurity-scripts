@@ -1,5 +1,5 @@
 """
-Tool: port_scanner_1 | Commit #15
+Tool: port_scanner_1 | Commit #16
 Safe cybersecurity tool example: port_scanner
 """
 
@@ -16,4 +16,4 @@ def port_scanner(file_path="test.txt"):
 if __name__ == "__main__":
     print("port_scanner_1 output:", port_scanner())
 
-# Unique comment for commit #15
+# Unique comment for commit #16

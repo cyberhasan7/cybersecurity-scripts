@@ -35,4 +35,4 @@ if __name__ == "__main__":
     password = input("Enter your password to check: ")
     check_password_breach(password)
 
-````````
+```````
